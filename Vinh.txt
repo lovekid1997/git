@@ -3,5 +3,6 @@ t?i v? : git clone (t?i nhân b?n)
 ví d?: git clone https://github.com/lovekid1997/git.git
 t?i lên git : b1. git status b2. git add * b3. git commit -m "ghi chú b4. git push
 asdasdasd
+jk;k;kl
 =======
 >>>>>>> parent of e66dbe7... Cáº­p nháº­t
